@@ -8,7 +8,7 @@ I'm an aspiring software developer with a background in tech and product strateg
 - Deepening backend skills and system design knowledge
 - Practicing data structures and algorithms in Python
 
-🚀 Recent Project: [Task Trackr](https://task-trackr-neon.vercel.app/) (WIP)
+🚀 Recent Project: [Task Trackr](https://task-trackr-auth.vercel.app/) (WIP)
 
 🤝 Always learning. Always building. Always growing.
 
