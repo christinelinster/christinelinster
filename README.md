@@ -1,4 +1,19 @@
-## Hi there 👋
+# Hi, I'm Christine 👋
+I'm an aspiring software developer with a background in tech and product strategy — now focusing on backend development, systems thinking, and full-stack projects.
+
+🌱 I've been quietly learning and building since 2022 — and in 2024, I committed to learning and creating publicly.
+
+🔧 Current Focus:
+- Building with JavaScript, Node.js, Express, PostgreSQL
+- Deepening backend skills and system design knowledge
+- Practicing data structures and algorithms in Python
+
+🚀 Recent Project: [Task Trackr](https://task-trackr-neon.vercel.app/)
+
+🤝 Always learning. Always building. Always growing.
+
+#grit #learninginpublic #softwaredevelopment
+
 
 <!--
 **christinelinster/christinelinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
