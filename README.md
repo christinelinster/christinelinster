@@ -1,7 +1,7 @@
 # Hi, I'm Christine 👋
 I'm an aspiring software developer with a background in tech and product strategy — now focusing on backend development, systems thinking, and full-stack projects.
 
-🌱 I've been quietly learning and building since 2022 — and in 2024, I committed to learning and creating publicly.
+I've been quietly learning and building since 2023 — and in 2025, I committed to learning and creating publicly.
 
 🔧 Current Focus:
 - Building with JavaScript, Node.js, Express, PostgreSQL
