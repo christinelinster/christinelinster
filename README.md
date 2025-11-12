@@ -1,19 +1,43 @@
-# Hi, I'm Christine 👋
-I'm an aspiring software developer with a background in tech and product strategy — now focusing on backend development, systems thinking, and full-stack projects.
+# 👋 Hi, I’m Christine
 
-I've been quietly learning and building since 2023 — and in 2025, I committed to learning and creating publicly.
+I’m a software engineer with 4+ years of experience as a leader in tech strategy, partnerships, and product development within the B2B SaaS space.
+Before engineering, I worked at the intersection of business, product, and technology. I helping bring ideas to market — leading engineering teams, collaborating with C-level executives, and aligning solutions to real business outcomes.
 
-🔧 Current Focus:
-- Building with JavaScript, Node.js, Express, PostgreSQL
-- Deepening backend skills and system design knowledge
-- Practicing data structures and algorithms in Python
+That experience now shapes how I build: 
+with a focus on technical excellence, scalability, and business impact.
 
-🚀 Recent Project: [Task Trackr](https://task-trackr-auth.vercel.app/) (WIP)
+---
 
-🤝 Always learning. Always building. Always growing.
+## ⚙️ Technical Focus
 
-#grit #learninginpublic #softwaredevelopment
+I develop full-stack applications that merge technical depth with business insight, ensuring solutions are built with scalability, clarity, and purpose in mind.
+Recently, I built a full-stack travel planning app with Python, Flask, Jinja templates, psycopg2, and PostgreSQL, hosted on Render. I also love to learn and explore possibilities to integrate AI technologies.
 
+| Layer | Technology |
+|-------|-------------|
+| Languages & Frameworks | Python, JavaScript, Flask, Node.js, Express.js, React, SQL, HTML/CSS |
+| Database & APIs| PostgreSQL, RESTful API Design, CRUD Operations |
+| Tools & Platforms | Git, GitHub, Render, Vercel, Postman|
+| Software Practices | Object-Oriented Programming, Testing, Agile Development, Sprint Planning (JIRA)  |
+| Other | Figma, Wordpress, JIRA, Hubspot, Go-to-Market Strategy |
+
+Currently Exploring: AI integration and applied machine learning
+
+---
+
+## 📸 Outside of Code
+
+- **my creative outlet**: photography and videography for storytelling and romanticizing life
+- **fitness enthusiast**: lifting weights since 2015, training and coaching many other along the way
+- **music lover**: especially edm has brought light to my world
+- **retirement goal**: owner of a tech cafe! 
+
+---
+
+## 📍 Get In Touch
+- [LinkedIn](https://www.linkedin.com/in/christinelin19/)
+- [Email](lin.christine19@gmail.com)
+- [Website](https://christine-lin.vercel.app/)
 
 <!--
 **christinelinster/christinelinster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
