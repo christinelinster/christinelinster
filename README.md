@@ -11,7 +11,7 @@ with a focus on technical excellence, scalability, and business impact.
 ## ⚙️ Technical Focus
 
 I develop full-stack applications that merge technical depth with business insight, ensuring solutions are built with scalability, clarity, and purpose in mind.
-Recently, I built a full-stack travel planning app with Python, Flask, Jinja templates, psycopg2, and PostgreSQL, hosted on Render. I also love to learn and explore possibilities to integrate AI technologies.
+Recently, I built a full-stack travel planning app with Python, Flask, Jinja templates, psycopg2, and PostgreSQL, hosted on Render. I love to learn and explore possibilities to integrate AI technologies.
 
 | Layer | Technology |
 |-------|-------------|
