@@ -21,8 +21,6 @@ Recently, I built a full-stack travel planning app with Python, Flask, Jinja tem
 | Software Practices | Object-Oriented Programming, Testing, Agile Development, Sprint Planning (JIRA)  |
 | Other | Figma, Wordpress, JIRA, Hubspot, Go-to-Market Strategy |
 
-Currently Exploring: AI integration and applied machine learning
-
 ---
 
 ## 📸 Outside of Code
