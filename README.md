@@ -1,17 +1,16 @@
-# 👋 Hi, I’m Christine
+# ✨ Hi, I’m Christine
 
-I’m a software engineer with 4+ years of experience as a leader in tech strategy, partnerships, and product development within the B2B SaaS space.
-Before engineering, I worked at the intersection of business, product, and technology. I helping bring ideas to market — leading engineering teams, collaborating with C-level executives, and aligning solutions to real business outcomes.
+I’m a software engineer with 4+ years of experience as a leader in tech strategy, partnerships, and product development within the B2B Retail SaaS space.
+In my previous role as Oracle Practice Lead, I worked at the intersection of business, product, and technology, helping bring ideas to market. I led engineering teams, collaborated with C-level executives, and aligned solutions to real business outcomes.
 
 That experience now shapes how I build: 
 with a focus on technical excellence, scalability, and business impact.
 
 ---
 
-## ⚙️ Technical Focus
+## 🙇🏻‍♀️ Technical Focus
 
-I develop full-stack applications that merge technical depth with business insight, ensuring solutions are built with scalability, clarity, and purpose in mind.
-Recently, I built a full-stack travel planning app with Python, Flask, Jinja templates, psycopg2, and PostgreSQL, hosted on Render. I love to learn and explore possibilities to integrate AI technologies.
+I develop full-stack applications that merge technical depth with business insight, building solutions with clarity and purpose. Recently, I created a travel planning app using Python, Flask, Jinja templates, psycopg2, and PostgreSQL, deployed on Render. Above all, I love bringing ideas to life; there's an endless list of projects I want to build and share with the world. I'm driven by curiosity, and you'll always find me exploring new technologies and expanding my skills.
 
 | Layer | Technology |
 |-------|-------------|
@@ -25,14 +24,15 @@ Recently, I built a full-stack travel planning app with Python, Flask, Jinja tem
 
 ## 📸 Outside of Code
 
-- **my creative outlet**: photography and videography for storytelling and romanticizing life
-- **fitness enthusiast**: lifting weights since 2015, training and coaching many other along the way
-- **music lover**: especially edm has brought light to my world
-- **retirement goal**: owner of a tech cafe! 
+When I'm not building software, you'll find me behind a camera capturing life's moments, in the gym (lifting since 2015), or coding late into the night with EDM keeping me company.
+
+- **photography & videography**: my creative outlet for capturing moments and telling visual stories
+- **fitness enthusiast**: lifting since 2015, training others to build strength and confidence along the way
+- **music lover**: EDM fuels my late-night coding sessions and keeps me in the flow state
 
 ---
 
-## 📍 Get In Touch
+## 💬 Get In Touch
 - [LinkedIn](https://www.linkedin.com/in/christinelin19/)
 - [Email](lin.christine19@gmail.com)
 - [Website](https://christine-lin.vercel.app/)
